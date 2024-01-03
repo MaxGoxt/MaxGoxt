@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **e-casa**
 
-- 🌱 I’m currently learning **React Native and Java.**
+- 🌱 I’m currently learning **Next.js and Java.**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
