@@ -33,7 +33,7 @@
   
 <!--  <img src="https://github-profile-trophy.vercel.app/?username=MaxGoxt&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%"> -->
   
-  <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
+<!--  <img src="/github-metrics.svg" alt="Metrics" width="96.5%"> -->
 
   <br/><br/>
 <figure>
