@@ -1,12 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=435&lines=Hi👋," alt="Typing" />
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=435&lines=I'm+Maximiliano+Gómez." alt="Typing" />
-  </a>
-</div>
-<h3 align="center">A passionate full stack developer from Uruguay</h3>
 
+![](/portada_de_github.png)
+  
+<h3 align="center">A passionate full stack developer from Uruguay</h3>
+</div>
 - 🔭 I’m currently working on **e-commerce MaxGoxt**
 
 - 🌱 I’m currently learning **Next.js and Java.**
