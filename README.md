@@ -62,6 +62,9 @@ I'm passionate about exploring new technologies and creating efficient, scalable
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white" />
 </p>
 
 ---
