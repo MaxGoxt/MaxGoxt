@@ -4,6 +4,7 @@
   
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
 </div>
+
 - 🔭 I’m currently working on **e-commerce MaxGoxt**
 
 - 🌱 I’m currently learning **Next.js and Java.**
@@ -33,10 +34,9 @@
 <!--  <img src="/github-metrics.svg" alt="Metrics" width="96.5%"> -->
 
   <br/><br/>
-<figure>
+  <figure>
     <img src="https://github-readme-stats.vercel.app/api?username=MaxGoxt&show_icons=true&theme=merko&hide_border=true" alt="Github Stats" height=165>
     <img src="https://streak-stats.demolab.com?user=MaxGoxt&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=165>
   </figure>
   
- <!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxGoxt&theme=merko" alt="Contribute Graph" width="96.5%"> --> 
 </div>
