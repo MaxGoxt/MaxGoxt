@@ -1,6 +1,6 @@
 <div align="center">
 
-![](/portada_de_github.png)
+![foto de portada](/portada_de_github.png)
   
 </div>
 <h1 align="center">👋 Hola, soy Maximiliano | Hi, I'm Maximiliano</h1>
