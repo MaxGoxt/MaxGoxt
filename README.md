@@ -2,41 +2,107 @@
 
 ![](/portada_de_github.png)
   
-<h3 align="center">A passionate full stack developer from Uruguay</h3>
 </div>
+<h1 align="center">👋 Hola, soy Maximiliano | Hi, I'm Maximiliano</h1>
 
-- 🔭 I’m currently working on **e-commerce MaxGoxt**
-
-- 🌱 I’m currently learning **Next.js and Java.**
-
-- 👯 I like **Web Develop**
-
-- 💬 Ask me about **React.js, Python and JavaScript.**
-
-- ⚡ I've already been told that **I teach well.**
-
-- 📫 How to reach me **m.gomezcoitino@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maximiliano-gomez-coitino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-gomez-coitino" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    “Construyendo el futuro, una línea de código a la vez.”
+    <br/>
+    "Building the future, one line at a time."
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="expressjs" width="40" height="40"/> </a> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 Sobre mí / About Me
+
+🎓 Soy **Maximiliano Gómez**, analista y desarrollador de software con un enfoque fullstack.  
+💼 Actualmente trabajo en **Soluque Informática** desarrollando soluciones web con Docker, React, Express y MariaDB.  
+🚀 Me entusiasma explorar nuevas tecnologías y construir soluciones funcionales, eficientes y escalables.  
+
+I'm **Maximiliano Gómez**, a software analyst and developer with a fullstack focus.  
+Currently working at **Soluque Informática**, building web solutions with Docker, React, Express, and MariaDB.  
+I'm passionate about exploring new technologies and creating efficient, scalable solutions.
+
+---
+
+<p align="center"> 
+  <a href="mailto:m.gomezcoitino@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> 
+    </a> 
+  <a href="https://www.linkedin.com/in/maximiliano-gomez-coitino/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://github.com/MaxGoxt"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+  </a> 
+</p>
 
 
-<div align=center>
-  
-  
-<!--  <img src="https://github-profile-trophy.vercel.app/?username=MaxGoxt&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%"> -->
-  
-<!--  <img src="/github-metrics.svg" alt="Metrics" width="96.5%"> -->
+## ⚙️ Tecnologías / Technologies & Tools
 
-  <br/><br/>
-  <figure>
-    <img src="https://github-readme-stats.vercel.app/api?username=MaxGoxt&show_icons=true&theme=merko&hide_border=true" alt="Github Stats" height=165>
-    <img src="https://streak-stats.demolab.com?user=MaxGoxt&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j" alt="Streak Stats" height=165>
-  </figure>
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 📦 Proyectos actuales / Ongoing Projects
+
+### 🏞️ Uncovering History
+
+Plataforma académica para explorar y gestionar espacios históricos y turísticos, con arquitectura distribuida.
+
+Academic platform to explore and manage historical and tourist spaces, using a distributed architecture.
+
+**Tecnologías:** Java 21 · Spring Boot · MongoDB · Docker · Flutter · Next.js
+
+<details>
+<summary>📊 Arquitectura / Architecture</summary>
+
+```mermaid
+flowchart LR
+
+subgraph Backend
+    DB[(🗄️ Database)]
+    API{🖥️ API}
+end
+
+subgraph Frontend
+    Historian[📱 Historian App]
+    Tourist[📱 Tourist App]
+    Admin[🌐 Admin App]
+end
+
+DB --> API
+API --> DB
+   
+API --> Admin & Tourist & Historian
+Admin & Historian & Tourist --> API
+```
+</details>
+
+## 📈 GitHub Stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxGoxt&show_icons=true&theme=github_dark&locale=es" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGoxt&layout=compact&theme=github_dark&langs_count=8" height="160" /> 
+</p>
