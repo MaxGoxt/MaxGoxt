@@ -18,11 +18,11 @@
 ## 🧑‍💻 Sobre mí / About Me
 
 🎓 Soy **Maximiliano Gómez**, analista y desarrollador de software con un enfoque fullstack.  
-💼 Actualmente trabajo en **Soluque Informática** desarrollando soluciones web con Docker, React, Express y MariaDB.  
+💼 Actualmente trabajo como desarrollador freelace, constuyendo soluciones web.  
 🚀 Me entusiasma explorar nuevas tecnologías y construir soluciones funcionales, eficientes y escalables.  
 
 I'm **Maximiliano Gómez**, a software analyst and developer with a fullstack focus.  
-Currently working at **Soluque Informática**, building web solutions with Docker, React, Express, and MariaDB.  
+Currently working as a freelance web developer, building web solutions.  
 I'm passionate about exploring new technologies and creating efficient, scalable solutions.
 
 ---
