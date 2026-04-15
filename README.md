@@ -108,6 +108,6 @@ Admin & Historian & Tourist --> API
 
 ## 📈 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxGoxt&show_icons=true&theme=github_dark&locale=es" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxGoxt&show_icons=true&theme=github_dark&locale=es&hide_rank=true&" height="160" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGoxt&layout=compact&theme=github_dark&langs_count=8" height="160" /> 
 </p>
